@@ -7,5 +7,6 @@
 -    -v            or --version                       - get version
 -    -l[value,...] or --list=[value,...]              - input list of arguments
 
+#### Результати роботи:
 
 ![image](1.png)
